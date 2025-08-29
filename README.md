@@ -1,6 +1,6 @@
 📘 Data Science Practice📘
 
- Overview
+ Overview:
 This repository contains "Jupyter Notebooks" covering Python basics and foundational concepts that are essential for Data Science.  
 It is a personal practice space where I explore Python, statistics, and machine learning building blocks.
 
